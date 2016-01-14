@@ -1,0 +1,17 @@
+.jumbotron {
+  margin-top: 25px !important;
+  border-radius: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+  text-align: center;
+
+}
+
+a{
+color: #7F00FF !important;
+}
+a:hover{
+  font-weight: bold !important;
+  text-decoration: none;
+  color: #4B0082;
+}
