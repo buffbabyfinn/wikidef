@@ -6,7 +6,12 @@
   text-align: center;
 
 }
-
+li{
+  text-align: center !important;
+}
+ul{
+  list-style-type: none;
+}
 a{
 color: #7F00FF !important;
 }
@@ -14,4 +19,29 @@ a:hover{
   font-weight: bold !important;
   text-decoration: none;
   color: #4B0082;
+}
+.linklist{
+  text-align: center;
+}
+
+.answer{
+  font-family: monospace;
+  color: red;
+}
+ .example{
+   font-family: monospace;
+   color: green;
+ }
+ h1{
+   text-align: center;
+ }
+
+.container p{
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.row{
+  padding-top: 2em;
 }
